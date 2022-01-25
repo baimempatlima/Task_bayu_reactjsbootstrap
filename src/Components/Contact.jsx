@@ -5,7 +5,7 @@ import female from "../female.png";
 
 const Contact = () => {
   return (
-    <Container>
+    <Container id="contact">
       <h2 className="text-center">Kontak</h2>
       <CardGroup>
         <Card style={{ width: "120px" }}>

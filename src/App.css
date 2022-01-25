@@ -4,9 +4,10 @@ body {
 }
 
 .jumbotron {
+  padding-top: 50px;
   background: url("./banner_bg.jpg");
   background-size: cover;
-  height: 500px;
+  height: 600px;
 }
 .btn-danger {
   box-shadow: 0px 2px 2px yellow;
@@ -25,4 +26,17 @@ a {
 }
 #kontak {
   width: 600px;
+}
+#skill {
+  padding-top: 60px;
+}
+#profile {
+  padding-top: 60px;
+}
+#contact {
+  padding-top: 70px;
+}
+.cardgroup {
+  width: 600px;
+  height: 500px;
 }

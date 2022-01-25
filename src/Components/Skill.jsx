@@ -4,7 +4,7 @@ import { Col, Container, Row, Image } from "react-bootstrap";
 
 const Skill = () => {
   return (
-    <Container>
+    <Container id="skill">
       <Row>
         <Col>
           <Container>
@@ -22,6 +22,8 @@ const Skill = () => {
               </Col>
               <Col></Col>
             </Row>
+            <br />
+            <br />
             <Row>
               <Col></Col>
               <Col md="auto">
@@ -29,6 +31,8 @@ const Skill = () => {
               </Col>
               <Col></Col>
             </Row>
+            <br />
+            <br />
             <Row>
               <Col></Col>
               <Col md="auto">
@@ -36,6 +40,8 @@ const Skill = () => {
               </Col>
               <Col></Col>
             </Row>
+            <br />
+            <br />
             <Row>
               <Col></Col>
               <Col md="auto">
@@ -54,6 +60,8 @@ const Skill = () => {
               </Col>
               <Col></Col>
             </Row>
+            <br />
+            <br />
             <Row>
               <Col></Col>
               <Col md="auto">
@@ -61,6 +69,8 @@ const Skill = () => {
               </Col>
               <Col></Col>
             </Row>
+            <br />
+            <br />
             <Row>
               <Col></Col>
               <Col md="auto">
@@ -68,6 +78,8 @@ const Skill = () => {
               </Col>
               <Col></Col>
             </Row>
+            <br />
+            <br />
             <Row>
               <Col></Col>
               <Col md="auto">
@@ -75,6 +87,8 @@ const Skill = () => {
               </Col>
               <Col></Col>
             </Row>
+            <br />
+            <br />
             <Row>
               <Col></Col>
               <Col md="auto">

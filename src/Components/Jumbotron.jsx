@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className="p-5 mb-4 bg-light rounded-3 jumbotron">
+    <div className="p-5 mb-4 bg-light rounded-3 jumbotron" id="jumbo">
       <div className="container-fluid py-5 text-center ">
         <p className="fs-5 fst-italic mt-5 text-center text-white">Halo Nama Saya</p>
         <h1 className="display-4 text-white fst-bold">BAYU RIZKI</h1>
