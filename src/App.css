@@ -26,17 +26,28 @@ a {
 }
 #kontak {
   width: 600px;
+  padding-top: 30px;
 }
 #skill {
-  padding-top: 60px;
+  padding-top: 80px;
 }
 #profile {
   padding-top: 60px;
 }
 #contact {
-  padding-top: 70px;
+  padding-top: 30px;
 }
-.cardgroup {
-  width: 600px;
-  height: 500px;
+#jumbo {
+  padding-top: 50px;
 }
+.text-center {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+/* .card-style {
+ 
+  text-align: center;
+}
+.card-row {
+  margin: auto;
+} */

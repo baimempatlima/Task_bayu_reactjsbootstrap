@@ -11,7 +11,7 @@ const Header = () => {
           <div className="col-md-8 ">
             <div className="input-group mb-3">
               <input type="text" className="form-control input-keyword" placeholder="Search"></input>
-              <button className="btn btn-primary search-button" type="button" id="button-addon2">
+              <button className="btn btn-danger search-button" type="button" id="button-addon2">
                 Search
               </button>
             </div>

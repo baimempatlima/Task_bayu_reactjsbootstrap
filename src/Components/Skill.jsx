@@ -15,6 +15,8 @@ const Skill = () => {
               </Col>
               <Col></Col>
             </Row>
+            <br />
+            <br />
             <Row>
               <Col></Col>
               <Col md="auto">
