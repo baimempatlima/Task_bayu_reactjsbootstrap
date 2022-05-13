@@ -33,6 +33,8 @@ a {
 }
 #profile {
   padding-top: 60px;
+  padding-bottom: 0px !important;
+  margin-bottom: 0px !important;
 }
 #contact {
   padding-top: 30px;
@@ -51,3 +53,8 @@ a {
 .card-row {
   margin: auto;
 } */
+
+.text-link {
+  text-decoration: none;
+  color: white;
+}

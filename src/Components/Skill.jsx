@@ -20,24 +20,6 @@ const Skill = () => {
             <Row>
               <Col></Col>
               <Col md="auto">
-                <Image src="https://img.icons8.com/fluency/48/000000/php.png" roundedCircle></Image>
-              </Col>
-              <Col></Col>
-            </Row>
-            <br />
-            <br />
-            <Row>
-              <Col></Col>
-              <Col md="auto">
-                <Image src="https://img.icons8.com/color/48/000000/mysql-logo.png" roundedCircle></Image>
-              </Col>
-              <Col></Col>
-            </Row>
-            <br />
-            <br />
-            <Row>
-              <Col></Col>
-              <Col md="auto">
                 <Image src="https://img.icons8.com/color/48/000000/html-5--v1.png" roundedCircle></Image>
               </Col>
               <Col></Col>
@@ -47,7 +29,25 @@ const Skill = () => {
             <Row>
               <Col></Col>
               <Col md="auto">
+                <Image src="https://img.icons8.com/color/48/000000/css3.png" roundedCircle></Image>
+              </Col>
+              <Col></Col>
+            </Row>
+            <br />
+            <br />
+            <Row>
+              <Col></Col>
+              <Col md="auto">
                 <Image src="https://img.icons8.com/color/48/000000/javascript--v1.png" roundedCircle></Image>
+              </Col>
+              <Col></Col>
+            </Row>
+            <br />
+            <br />
+            <Row>
+              <Col></Col>
+              <Col md="auto">
+                <Image src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png" roundedCircle></Image>
               </Col>
               <Col></Col>
             </Row>
@@ -67,7 +67,7 @@ const Skill = () => {
             <Row>
               <Col></Col>
               <Col md="auto">
-                <Image src="https://img.icons8.com/color/48/000000/css3.png" roundedCircle></Image>
+                <Image src="https://img.icons8.com/color/48/000000/mysql-logo.png" roundedCircle></Image>
               </Col>
               <Col></Col>
             </Row>
@@ -76,7 +76,7 @@ const Skill = () => {
             <Row>
               <Col></Col>
               <Col md="auto">
-                <Image src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png" roundedCircle></Image>
+                <Image src="https://img.icons8.com/color/48/mongodb.png" roundedCircle></Image>
               </Col>
               <Col></Col>
             </Row>
@@ -85,7 +85,7 @@ const Skill = () => {
             <Row>
               <Col></Col>
               <Col md="auto">
-                <Image src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-shadow-tal-revivo.png" roundedCircle></Image>
+                <Image src="https://img.icons8.com/officexs/48/react.png" roundedCircle></Image>
               </Col>
               <Col></Col>
             </Row>
@@ -94,7 +94,7 @@ const Skill = () => {
             <Row>
               <Col></Col>
               <Col md="auto">
-                <Image src="https://img.icons8.com/color/48/000000/javascript--v1.png" roundedCircle></Image>
+                <Image src="https://img.icons8.com/fluency/48/node-js.png" roundedCircle></Image>
               </Col>
               <Col></Col>
             </Row>
